@@ -7,7 +7,7 @@ $ sudo npm install -g mocha typescript
 ```
  Clone project:
 ```bash
-$ https://github.com/WebStyle/tasks_nodejs.git
+$ git clone https://github.com/WebStyle/tasks_nodejs.git
 ```
 Install dependencies:
 ```bash
